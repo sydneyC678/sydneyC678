@@ -48,6 +48,6 @@ Welcome to my GitHub profile! I'm a software developer with a strong passion for
 
 ## 🌸 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/sydneyC678](https://www.linkedin.com/in/sydney-campbell-666b69270/))
+- [LinkedIn]([https://www.linkedin.com/in/sydneyC678](https://www.linkedin.com/in/sydney-campbell-666b69270/])
 
 Looking forward to connecting with you and collaborating on amazing projects!
