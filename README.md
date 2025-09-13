@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a software developer with a strong passion for
 ## 🌸 About Me
 
 - 💻 I love coding in **Python**, **JavaScript**,**Java**,**C++**  and **Swift**.
-- ☁️ Certified in Microsoft Azure Cloud Computing (AZ-900, SC-900, AI-900).
+- ☁️ Certified in Microsoft Azure Cloud Computing (AZ-900, SC-900, AI-900) as well as AWS Solutions Architect Associate, Cloud Practitioner and AI Practitioner.
 - 🔍 Passionate about cybersecurity, software architecture and full-stack development.
 - 🌷 Currently learning more about **Machine Learning** and **Cloud Computing**.
 - 👯 Looking to collaborate on **open-source projects** and **hackathons**.
