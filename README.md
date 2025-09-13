@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a software developer with a strong passion for
 - 🌷 Currently learning more about **Machine Learning** and **Cloud Computing**.
 - 👯 Looking to collaborate on **open-source projects** and **hackathons**.
 - 💬 Ask me about cloud security, machine learning, and UI/UX for web & mobile.
-- 💌 Reach me at: sy_campb@live.concordia.ca 
+- 💌 Reach me at: sydcampbell@hotmail.com
 
 ## 📊 GitHub Stats
 
